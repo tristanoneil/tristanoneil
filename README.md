@@ -1,7 +1,7 @@
 ### 👋 Hello! 
 
-My name is Tristan O’Neil. I have lived in Vermont almost my entire life and have worked remotely for the last 8 years. I live with my wife, two
-daughters and, a giant cat (he’s a [Nebelung](https://duckduckgo.com/?q=nebelung&t=h_&iax=images&ia=images)). In my free time, I enjoy running, mountain biking, and building trails on my property. Professionally I’m energized by exploring new technologies and tools that improve developer experience/efficiency and have a passion for refactoring code.
+My name is Tristan O’Neil. I have lived in Vermont almost my entire life and have worked remotely for the last 10+ years. I live with my wife, two
+daughters and, a giant cat (he’s a [Nebelung](https://duckduckgo.com/?q=nebelung&t=h_&iax=images&ia=images)). In my free time, I enjoy running, mountain biking, and skiing. Professionally I’m energized by exploring new technologies and tools that improve developer experience/efficiency and have a passion for refactoring code.
 
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [Twitter](https://twitter.com/tristanoneil)
